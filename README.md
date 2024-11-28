@@ -1,6 +1,9 @@
 # Personal Project
 Collection of my personal Project. Any advice or sugestion is apreciated  
 
+## Books
+1.  R and Python Statistic Coding Handbook (ongoing)
+
 ## Health and Environment
 1.	Electrocephalogram (EEG) depression patient clustering
 2.	East Java City and Regency Health Indicator Clustering and Classification

@@ -1,5 +1,5 @@
 # Personal Project
-Collection of my personal Project. Any advice or sugestion is apreciated  
+Collection of my personal Project. Any advice or sugestion is apreciated.
 
 ## Books
 1.  R and Python Statistic Coding Handbook (ongoing)

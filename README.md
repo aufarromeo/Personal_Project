@@ -2,9 +2,11 @@
 Collection of my personal Project. Any advice or sugestion is apreciated  
 
 ## Health and Environment
-1.	Electrocephalogram (EEG) depression patient clustering
-2.	East Java City and Regency Health Indicator Clustering and Classification
-3.	Classification of healthy infant weight
+a)	Electrocephalogram (EEG) depression patient clustering
+b)	East Java City and Regency Health Indicator Clustering and Classification
+c)	Classification of healthy infant weight
+
+
 
 
 

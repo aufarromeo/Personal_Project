@@ -12,5 +12,8 @@ List of Awards and Certifications
 
 ## Certifications
 •	Associate Data Analyst in SQL – Datacamp 
+
 •	Power BI Data Analysis – MySkill 
+
 •	Maven analytic Power BI Analysis – Udemy (ongoing)
+

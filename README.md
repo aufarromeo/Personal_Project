@@ -5,16 +5,19 @@ Collection of my personal Project. Any advice or sugestion is apreciated
 1.  R and Python Statistic Coding Handbook (ongoing)
 
 ## Health and Environment
+Collection of my projects that focus application of statistics and machine learning on health and environment
 1.	Electrocephalogram (EEG) depression patient clustering
 2.	East Java City and Regency Health Indicator Clustering and Classification
 3.	Classification of healthy infant weight
 4.	Indonesia Forest Fire Spatial Point Pattern Analysis
 
 ## Finance and Business
+Collection of my projects that focus application of statistics and machine learning on finance and business
 1. Indonesian Telecommunication Company Usage Analysis
 2. Stock Price Forecasting with Covid-19 Impact
 
 ## Official Statistics
+Collection of my projects that focus application of statistics and machine learning on official statistic
 1. Indonesia Poverty Spatio Temporal Analysis
 2. South Kalimantan City or Regency Poverty and Human Development Index Clustering
 

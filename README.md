@@ -8,7 +8,7 @@ Collection of my personal Project. Any advice or sugestion is apreciated
 1.	Electrocephalogram (EEG) depression patient clustering
 2.	East Java City and Regency Health Indicator Clustering and Classification
 3.	Classification of healthy infant weight
-4.	Indoenesia Forest Fire Spatial Point Pattern Analysis
+4.	Indonesia Forest Fire Spatial Point Pattern Analysis
 
 ## Finance and Business
 1. Indonesian Telecommunication Company Usage Analysis

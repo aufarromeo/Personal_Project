@@ -13,9 +13,8 @@ Collection of my personal Project. Any advice or sugestion is apreciated
 
 **South Kalimantan City or Regency Poverty and Human Development Index Clustering**
 
-•	Applied clustering techniques (K-means, K-medoids) to assess poverty levels and Human Development Index (HDI) across South Kalimantan cities.
-
-•	Delivered strategic recommendations for prioritizing regions in need of educational and healthcare improvements, supporting regional development goals
+•Applied clustering techniques (K-means, K-medoids) to assess poverty levels and Human Development Index (HDI) across South Kalimantan cities.
+•Delivered strategic recommendations for prioritizing regions in need of educational and healthcare improvements, supporting regional development goals
 
 ## Dashboard and Website
 Coffee Shop

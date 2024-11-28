@@ -2,22 +2,19 @@
 Collection of my personal Project. Any advice or sugestion is apreciated  
 
 ## Health and Environment
-a)	Electrocephalogram (EEG) depression patient clustering
-b)	East Java City and Regency Health Indicator Clustering and Classification
-c)	Classification of healthy infant weight
-
-
-
-
-
+1.	Electrocephalogram (EEG) depression patient clustering
+2.	East Java City and Regency Health Indicator Clustering and Classification
+3.	Classification of healthy infant weight
+4.	Indoenesia Forest Fire Spatial Point Pattern Analysis
 
 ## Finance and Business
-Indonesian Telecommunication Company Usage Analysis
-Stock Price Forecasting with Covid-19 Impact
+1. Indonesian Telecommunication Company Usage Analysis
+2. Stock Price Forecasting with Covid-19 Impact
+
 
 ## **Official Statistics**
-Indonesia Poverty Spatio Temporal Analysis
-South Kalimantan City or Regency Poverty and Human Development Index Clustering
+1. Indonesia Poverty Spatio Temporal Analysis
+2. South Kalimantan City or Regency Poverty and Human Development Index Clustering
 
 ## Dashboard and Website
 Coffee Shop

@@ -2,7 +2,7 @@
 Collection of my personal Project. Any advice or sugestion is apreciated.
 
 ## Books
-1.  [R and Python Statistic Coding Handbook (ongoing)](https://aufarromeo.github.io/bookproject/)
+1.  [R and Python Statistic Coding Handbook (ongoing)](https://aufarromeo.github.io/book-project/)
 
 ## Health and Environment
 Collection of my projects that focus application of statistics and machine learning on health and environment

@@ -26,10 +26,8 @@ Collection of my projects that focus application of statistics and machine learn
 
 [Sales Dashboard Looker Studio](https://lookerstudio.google.com/reporting/a01cf52f-18e4-4416-9ea6-36b671c925e6)
 
-### Website (ongoing)
-### Looker Studio (ongoing)
-### RShiny (ongoing)
-### Streamlit (ongoing)
+[Automatic Stock Forecasting App using R Shiny](https://w4nasc-akhmad0aufar0romeo0bakhtiar.shinyapps.io/Stock_Forecasting/)
+
 
 ## Natural Language Processing (ongoing)
 

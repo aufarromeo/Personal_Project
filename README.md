@@ -22,7 +22,7 @@ Collection of my projects that focus application of statistics and machine learn
 2. [South Kalimantan City or Regency Poverty and Human Development Index Clustering](https://github.com/aufarromeo/Personal_Project/blob/main/South%20Kalimantan%20City%20or%20Regency%20Clustering/Revisi_PaparanEASOffstatkelasA_M.%20Difa.pdf)
 
 ## Dashboard and Website
-[Coffee Shop](https://km-feb24-jayapura-18-eight.vercel.app/)
+[Coffee Shop Website](https://km-feb24-jayapura-18-eight.vercel.app/)
 
 [Sales Dashboard Looker Studio](https://lookerstudio.google.com/reporting/a01cf52f-18e4-4416-9ea6-36b671c925e6)
 

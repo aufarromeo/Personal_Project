@@ -18,14 +18,13 @@ Collection of my projects that focus application of statistics and machine learn
 
 ## Official Statistics
 Collection of my projects that focus application of statistics and machine learning on official statistic
-1. Indonesia Poverty Spatio Temporal Analysis
-2. South Kalimantan City or Regency Poverty and Human Development Index Clustering
+1. [Indonesia Poverty Spatio Temporal Analysis](https://github.com/aufarromeo/Personal_Project/blob/main/Indonesia%20Poverty%20Spatio%20Temporal%20Analysis/NSC_Makalah_SD2024010000330.pdf)
+2. [South Kalimantan City or Regency Poverty and Human Development Index Clustering](https://github.com/aufarromeo/Personal_Project/blob/main/South%20Kalimantan%20City%20or%20Regency%20Clustering/Revisi_PaparanEASOffstatkelasA_M.%20Difa.pdf)
 
 ## Dashboard and Website
-[Coffee Shop] (https://km-feb24-jayapura-18-eight.vercel.app/)
+[Coffee Shop](https://km-feb24-jayapura-18-eight.vercel.app/)
 
-Sales Dashboard Looker Studio
-https://lookerstudio.google.com/reporting/a01cf52f-18e4-4416-9ea6-36b671c925e6
+[Sales Dashboard Looker Studio](https://lookerstudio.google.com/reporting/a01cf52f-18e4-4416-9ea6-36b671c925e6)
 
 ### Website (ongoing)
 ### Looker Studio (ongoing)
